@@ -1,0 +1,14 @@
+{
+  "root": ".",
+  "gitboook": ">= 3.3.6",
+  "title": "Cyber Security Docs",
+  "description": "Knowledge base for offensive security & pentesting",
+  "author": "oBananaZo",
+  "language": "en",
+  "direction": "ltr",
+  "structure": {
+    "readme": "INTRODUCTION.md",
+    "summary": "SUMMARY.md",
+    "glossary": "GLOSSARY.md"
+  }
+}
