@@ -2,7 +2,30 @@
 
 # Cyber Security Documentation
 
-Knowledge base for penetration testing & CTFs
+Knowledge base for penetration testing & CTFs.
+
+A local gitbook-ng I use for my own notes & learning.
+
+## Preview
+
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary>Click to expand</summary>
+
+  ![intro](./assets/readme-assets/intro.png)
+
+  ![setup](./assets/readme-assets/setup.png)
+
+  ![organisation](./assets/readme-assets/organisation.png)
+
+  ![basic-tools](./assets/readme-assets/basic-tools.png)
+
+  ![vpn](./assets/readme-assets/vpn.png)
+
+  ![recon](./assets/readme-assets/recon.png)
+
+  ![commands](./assets/readme-assets/commands.png)
+</details>
 
 ## Prerequisites
 
